@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Divesh  divesh@git.training diveshborse14@gmail.com 
 
 # THANKS
 

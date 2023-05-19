@@ -16,6 +16,8 @@ This is a simple, web project, deployment can be on any server or even local fil
 
 ##How to contribute
 
+Please fork this repository and then issue Pull requests for review.
+
 ### Copyright
 
 2023 Git Training 

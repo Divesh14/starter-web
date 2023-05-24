@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2023 Git.Training
+<<<<<<< HEAD
+	Some silly changes from master branch
+	
+-->
+<head>
+	<title>Silly Changes on master </title>
+=======
+	These changes are from the feature branch bigtrouble
+-->
+<head>
+	<title>Lots of trouble </title>
+>>>>>>> 5529236 (fb adding some trouble to simple.html)
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Junk Filler content -->
+		<p>
+<<<<<<< HEAD
+			Just some stuff for now, not sure if we should replace it or not
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Divesh Borse 2023</p>
+=======
+			Just nothing but trouble.
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training 2023</p>
+>>>>>>> 5529236 (fb adding some trouble to simple.html)
+	</footer>
+</body>
+</html>
